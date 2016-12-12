@@ -1,0 +1,77 @@
+2016-12-12 09:50:48,462 [FATAL] (LoggingHandler.java:invoke:19) Méthode retirer() invoquée avec [500.0]
+2016-12-12 09:50:48,464 [FATAL] (LoggingHandler.java:invoke:21) Méthode retirer() terminée par null
+2016-12-12 09:51:43,175 [FATAL] (LoggingHandler.java:invoke:19) Méthode retirer() invoquée avec [500.0]
+2016-12-12 09:51:43,181 [FATAL] (LoggingHandler.java:invoke:21) Méthode retirer() terminée par null
+2016-12-12 10:27:45,676 [FATAL] (LoggingHandler.java:invoke:19) Méthode verser() invoquée avec [3000.0]
+2016-12-12 10:27:45,678 [FATAL] (LoggingHandler.java:invoke:21) Méthode verser() terminée par null
+2016-12-12 10:27:45,681 [FATAL] (LoggingHandler.java:invoke:19) Méthode retirer() invoquée avec [500.0]
+2016-12-12 10:27:45,681 [FATAL] (LoggingHandler.java:invoke:21) Méthode retirer() terminée par null
+2016-12-12 10:28:53,957 [FATAL] (LoggingHandler.java:invoke:19) Méthode verser() invoquée avec [3000.0]
+2016-12-12 10:28:53,959 [FATAL] (LoggingHandler.java:invoke:21) Méthode verser() terminée par null
+2016-12-12 10:28:53,959 [FATAL] (LoggingHandler.java:invoke:19) Méthode retirer() invoquée avec [500.0]
+2016-12-12 10:28:53,959 [FATAL] (LoggingHandler.java:invoke:21) Méthode retirer() terminée par null
+2016-12-12 10:29:05,369 [FATAL] (LoggingHandler.java:invoke:19) Méthode verser() invoquée avec [3000.0]
+2016-12-12 10:29:05,370 [FATAL] (LoggingHandler.java:invoke:21) Méthode verser() terminée par null
+2016-12-12 10:29:05,371 [FATAL] (LoggingHandler.java:invoke:19) Méthode retirer() invoquée avec [500.0]
+2016-12-12 10:29:05,371 [FATAL] (LoggingHandler.java:invoke:21) Méthode retirer() terminée par null
+2016-12-12 10:34:16,120 [FATAL] (LoggingHandler.java:invoke:38) Méthode verser() invoquée avec [3000.0]
+2016-12-12 10:34:16,121 [FATAL] (LoggingHandler.java:invoke:40) Méthode verser() terminée par null
+2016-12-12 10:34:16,122 [FATAL] (LoggingHandler.java:invoke:38) Méthode retirer() invoquée avec [500.0]
+2016-12-12 10:34:16,122 [FATAL] (LoggingHandler.java:invoke:40) Méthode retirer() terminée par null
+2016-12-12 10:35:19,682 [FATAL] (LoggingHandler.java:invoke:38) Méthode verser() invoquée avec [3000.0]
+2016-12-12 10:35:19,684 [FATAL] (LoggingHandler.java:invoke:40) Méthode verser() terminée par null
+2016-12-12 10:35:19,684 [FATAL] (LoggingHandler.java:invoke:38) Méthode retirer() invoquée avec [500.0]
+2016-12-12 10:35:19,684 [FATAL] (LoggingHandler.java:invoke:40) Méthode retirer() terminée par null
+2016-12-12 10:40:39,770 [FATAL] (LoggingHandler.java:invoke:20) Méthode verser() invoquée avec [3000.0]
+2016-12-12 10:40:39,772 [FATAL] (LoggingHandler.java:invoke:22) Méthode verser() terminée par null
+2016-12-12 10:40:39,772 [FATAL] (CompteLog.java:afterApprovisionner:95) Approvisionnement de 3000.0 sur ce compte de. Opération effectuée avec succès. (2ms)
+2016-12-12 10:44:25,090 [FATAL] (LoggingHandler.java:invoke:20) Méthode verser() invoquée avec [3000.0]
+2016-12-12 10:44:25,092 [FATAL] (LoggingHandler.java:invoke:22) Méthode verser() terminée par null
+2016-12-12 10:44:25,092 [FATAL] (CompteLog.java:afterApprovisionner:95) Approvisionnement de 3000.0 sur ce compte de. Opération effectuée avec succès. (2ms)
+2016-12-12 10:46:02,112 [FATAL] (LoggingHandler.java:invoke:20) Méthode verser() invoquée avec [3000.0]
+2016-12-12 10:46:02,114 [FATAL] (LoggingHandler.java:invoke:22) Méthode verser() terminée par null
+2016-12-12 10:46:02,114 [FATAL] (CompteLog.java:afterApprovisionner:95) Approvisionnement de 3000.0 sur ce compte de. Opération effectuée avec succès. (2ms)
+2016-12-12 10:47:07,068 [FATAL] (LoggingHandler.java:invoke:20) Méthode verser() invoquée avec [3000.0]
+2016-12-12 10:47:07,070 [FATAL] (LoggingHandler.java:invoke:22) Méthode verser() terminée par null
+2016-12-12 10:47:07,070 [FATAL] (CompteLog.java:afterApprovisionner:96) Approvisionnement de 3000.0 sur ce compte de. Opération effectuée avec succès. (2ms)
+2016-12-12 10:58:53,897 [FATAL] (LoggingHandler.java:invoke:20) Méthode verser() invoquée avec [3000.0]
+2016-12-12 10:58:53,899 [FATAL] (LoggingHandler.java:invoke:22) Méthode verser() terminée par null
+2016-12-12 10:58:53,900 [FATAL] (CompteLog.java:afterApprovisionner:96) Approvisionnement de 3000.0 sur ce compte de. Opération effectuée avec succès. (2ms)
+2016-12-12 11:04:36,634 [FATAL] (LoggingHandler.java:invoke:20) Méthode verser() invoquée avec [3000.0]
+2016-12-12 11:04:36,636 [FATAL] (LoggingHandler.java:invoke:22) Méthode verser() terminée par null
+2016-12-12 11:04:36,636 [FATAL] (CompteLog.java:afterApprovisionner:96) Approvisionnement de 3000.0 sur ce compte de. Opération effectuée avec succès. (2ms)
+2016-12-12 12:00:37,931 [FATAL] (LoggingHandler.java:invoke:25) Méthode verser() invoquée avec [3000.0]
+2016-12-12 12:00:37,933 [FATAL] (LoggingHandler.java:invoke:27) Méthode verser() terminée par null
+2016-12-12 12:00:37,934 [FATAL] (LoggingHandler.java:invoke:25) Méthode retirer() invoquée avec [500.0]
+2016-12-12 12:00:37,934 [FATAL] (LoggingHandler.java:invoke:27) Méthode retirer() terminée par null
+2016-12-12 12:20:15,175 [FATAL] (LoggingHandler.java:invoke:32) Méthode verser() invoquée avec [3000.0]
+2016-12-12 12:20:15,176 [FATAL] (LoggingHandler.java:invoke:34) Méthode verser() terminée par null
+2016-12-12 12:20:15,177 [FATAL] (LoggingHandler.java:invoke:32) Méthode retirer() invoquée avec [500.0]
+2016-12-12 12:20:15,177 [FATAL] (LoggingHandler.java:invoke:34) Méthode retirer() terminée par null
+2016-12-12 12:20:59,415 [FATAL] (LoggingHandler.java:invoke:32) Méthode verser() invoquée avec [3000.0]
+2016-12-12 12:20:59,417 [FATAL] (LoggingHandler.java:invoke:34) Méthode verser() terminée par null
+2016-12-12 12:20:59,417 [FATAL] (LoggingHandler.java:invoke:32) Méthode retirer() invoquée avec [500.0]
+2016-12-12 12:20:59,417 [FATAL] (LoggingHandler.java:invoke:34) Méthode retirer() terminée par null
+2016-12-12 12:21:58,779 [FATAL] (LoggingHandler.java:invoke:34) Méthode verser() invoquée avec [3000.0]
+2016-12-12 12:21:58,781 [FATAL] (LoggingHandler.java:invoke:36) Méthode verser() terminée par null
+2016-12-12 12:21:58,781 [FATAL] (LoggingHandler.java:invoke:34) Méthode retirer() invoquée avec [500.0]
+2016-12-12 12:21:58,781 [FATAL] (LoggingHandler.java:invoke:36) Méthode retirer() terminée par null
+2016-12-12 12:40:42,881 [FATAL] (LoggingHandler.java:invoke:64) Méthode verser() invoquée avec [3000.0]
+2016-12-12 12:40:42,882 [FATAL] (LoggingHandler.java:invoke:66) Méthode verser() terminée par null
+2016-12-12 12:40:42,882 [FATAL] (LoggingHandler.java:invoke:64) Méthode retirer() invoquée avec [500.0]
+2016-12-12 12:40:42,883 [FATAL] (LoggingHandler.java:invoke:66) Méthode retirer() terminée par null
+2016-12-12 12:41:02,061 [FATAL] (LoggingHandler.java:invoke:64) Méthode verser() invoquée avec [3000.0]
+2016-12-12 12:41:02,062 [FATAL] (LoggingHandler.java:invoke:66) Méthode verser() terminée par null
+2016-12-12 12:41:02,062 [FATAL] (LoggingHandler.java:invoke:64) Méthode retirer() invoquée avec [500.0]
+2016-12-12 12:41:02,062 [FATAL] (LoggingHandler.java:invoke:66) Méthode retirer() terminée par null
+2016-12-12 12:41:33,794 [FATAL] (LoggingHandler.java:invoke:64) Méthode verser() invoquée avec [3000.0]
+2016-12-12 12:41:33,796 [FATAL] (LoggingHandler.java:invoke:66) Méthode verser() terminée par null
+2016-12-12 12:41:33,796 [FATAL] (LoggingHandler.java:invoke:64) Méthode retirer() invoquée avec [500.0]
+2016-12-12 12:41:33,797 [FATAL] (LoggingHandler.java:invoke:66) Méthode retirer() terminée par null
+2016-12-12 12:50:33,079 [FATAL] (LoggingHandler.java:invoke:29) Solde actuel : 0.0
+2016-12-12 12:50:33,080 [FATAL] (LoggingHandler.java:invoke:30) Virement de 3000.0
+2016-12-12 12:50:33,080 [FATAL] (LoggingHandler.java:invoke:40) Solde actualisé après le virement de 3000.0 : 3000.0
+2016-12-12 12:50:33,080 [FATAL] (LoggingHandler.java:invoke:49) Solde actuel : 3000.0
+2016-12-12 12:50:33,081 [FATAL] (LoggingHandler.java:invoke:50) Retrait de 500.0
+2016-12-12 12:50:33,081 [FATAL] (LoggingHandler.java:invoke:54) Solde actualisé après le retrait de 500.0 : 2500.0
+2016-12-12 12:50:33,081 [FATAL] (LoggingHandler.java:invoke:61) Solde actuel : 2500.0
